@@ -58,7 +58,7 @@ body{
     padding: 5px;
     font-size: 30px;
     color: black;
-    border: 2px solid lightgray;
+    border: 2px solid rgb(234, 229, 229);
     border-radius: 20px;
     box-shadow: 4px 4px 5px lightgray;
     cursor: pointer;
@@ -91,10 +91,10 @@ body{
     
 } */
 .button:hover,.button:active{
-    background-color: darkgray;
-    color: antiquewhite;
+    background-color:  rgb(156, 195, 234);
     transform: scale(1.1);
     z-index: 1;
+    border: 2px solid rgb(173, 173, 237);
 }
 .buttonoperator{
     display: grid;
