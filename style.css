@@ -96,10 +96,6 @@ body{
     z-index: 1;
     border: 2px solid rgb(173, 173, 237);
 }
-.buttonoperator{
-    display: grid;
-    gap: 10px;
-}
 #button24{
     background-color: blue;
 }
