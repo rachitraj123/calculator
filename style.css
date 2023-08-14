@@ -102,6 +102,9 @@ body{
     font-size: 30px;
     padding-bottom:20px;
 }
+#button21:hover,#button22:hover,#button23:hover,#button24:hover{
+    transform: scale(1);
+}
 #button24{
     background-color: rgb(170, 170, 224);
     border-color:rgb(170, 170, 224) ;
@@ -109,6 +112,10 @@ body{
 #button5 sup{
     font-size: 20px;
 }
+.buttonoperators{
+    background-color: rgb(93, 130, 162);
+}
+
 @media screen and (max-width:768px) {
     .button{
         font-size: 20px;
